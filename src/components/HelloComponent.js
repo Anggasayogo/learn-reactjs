@@ -1,9 +1,12 @@
 import React from 'react';
+import './HelloComponent.css';
 
 
 const HelloCompnent = () => {
     return (
-        <p>Hello ini function component</p>
+        <div className="component">
+            <p>Hello Ini functional Component</p>
+        </div>
     );
 }
 

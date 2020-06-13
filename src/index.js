@@ -9,7 +9,7 @@ import StatefullComponent from './containers/StatefullComponent';
 
 ReactDOM.render(
   <React.StrictMode>
-    <StatefullComponent/>
+    <HelloCompnent/>
   </React.StrictMode>,
   document.getElementById('root')
 );
